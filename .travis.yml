@@ -1,4 +1,4 @@
 language: bash
 sudo: false
 script:
-- runPrChecks.sh
+- ./runPrChecks.sh
