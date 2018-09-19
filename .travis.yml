@@ -1,4 +1,5 @@
 language: bash
 sudo: false
 script:
+- chmod u+x runPrChecks.sh
 - ./runPrChecks.sh
